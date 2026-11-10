@@ -25,7 +25,7 @@
 //     perusahaan = 'belum punya'
 // } else {
 //     perusahaan = 'PT Digital'
-// }
+// }cxx
 
 // let saldoAwal = 300000000
 // let saldoTambahan = 80000000
